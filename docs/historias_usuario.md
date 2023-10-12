@@ -10,6 +10,7 @@ Los datos de las tareas se extraerán de un CSV, en el que están tanto los hora
 
 En conclusión, mejoraría mucho mi productividad y organización con un método que analizase el contenido del CSV, validase las restricciones y planificase las asignaciones equitativamente, de forma que pudiese visualizar cómodamente las tareas que debo realizar en el día o en la semana, para conciliar la vida laboral y personal, y realizar la misma cantidad de tareas que mi pareja.
 
+---
 
 ## [HU02] Candela López
 
