@@ -1,2 +1,2 @@
-## [M0] Modelo del Poblema
+## [M0] Modelo del Problema
 
