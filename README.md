@@ -8,6 +8,16 @@ Esto provoca problemas como la saturación de tareas ciertos días, y la procras
 
 Necesitamos una buena organización para que no pase lo anteriormente comentado, y si, la planificación de las tareas actuales funciona correctamente, empezar a introducir también franjas de ejercicio físico o yoga, para centrarnos en nuestra salud física, ya que también somos bastante sedentarios.
 
+## Restricciones
+
+- Existirán tareas con restricciones horarias, teniéndo que hacerse en cierta franja del día (Ej: trabajo, tirar la basura...).
+
+- Habrá tareas que siempre se le asignen a la misma  persona, debido a algún acuerdo o motivo concreto.
+
+- El tiempo dedicado a tareas comúnes o al deporte, deberá ser el mismo para todos los integrantes, al menos semanalmente.
+
+- La jornada estipulada para la planificación será de 7:00 de la mañana a 23:59 de la noche.
+
 ---
 ## Enlaces a documentación:
 
