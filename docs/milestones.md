@@ -19,11 +19,11 @@
 
   - Objetivo:
   
-    Implementar una función que se encargue de extraer los datos necesarios de un documento y estructurarlos para su posterior procesamiento y uso.
+    Implementar una función que sea capaz de extraer los datos necesarios de un documento y estructurarlos para su posterior procesamiento y uso.
 
  - Entrega: 
  
-    Código fuente de la función.
+    Código fuente y documentación necesarios para su funcionamiento.
 
  - Viabilidad:
     
