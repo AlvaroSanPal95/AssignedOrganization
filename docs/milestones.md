@@ -27,7 +27,7 @@
 
  - Viabilidad:
     
-    Se considerará viable si compila y funciona correctamente (si pasa los tests establecidos).
+    Se considerará viable si compila y funciona correctamente.
 
  ---
 
