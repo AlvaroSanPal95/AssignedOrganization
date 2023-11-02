@@ -19,7 +19,7 @@
 
   - Objetivo:
   
-    Implementar una función que sea capaz de extraer los datos necesarios de un documento y estructurarlos para su posterior procesamiento y uso.
+    Implementar una clase o función que sea capaz de extraer los datos necesarios de un documento y estructurarlos para su posterior procesamiento y uso.
 
  - Entrega: 
  
@@ -43,7 +43,7 @@
 
 - Viabilidad:
 
-    Se considerará viable si compila y pasa los tests.
+    Se considerará viable si compila y pasa los tests (de asignación por ejemplo).
 
 ---
 
